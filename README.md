@@ -60,7 +60,22 @@ Get FlavorQuest running in minutes!
 - **Favorites**: View and manage saved recipes. Data persists using local storage.
 - **ContactUs**: Send a message (extendable with backend support).
 - **Pro Tip:**: Favorites remain available offline.
-  
+## 📸 Screenshots
+
+### Home Page
+
+<img width="1349" height="616" alt="image" src="https://github.com/user-attachments/assets/86e37c9b-d305-4435-99f2-b94fd9881704" />
+
+
+### Recipes in Action
+
+<img width="1318" height="631" alt="image" src="https://github.com/user-attachments/assets/1a871f60-5ff4-47ca-8743-0d466c25fe50" />
+
+
+### Favorites List
+
+<img width="1336" height="303" alt="image" src="https://github.com/user-attachments/assets/c16d1ed3-08f8-4c14-9ad0-21ad5006cc55" />
+
 ## 📄 License
 
 This project is licensed under the MIT License.
